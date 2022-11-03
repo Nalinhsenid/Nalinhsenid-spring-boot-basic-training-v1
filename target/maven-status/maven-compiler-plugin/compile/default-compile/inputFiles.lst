@@ -1,0 +1,5 @@
+/home/beyondm/IdeaProjects/spring-mongo-docker/src/main/java/com/spring/springmongodocker/service/StudentService.java
+/home/beyondm/IdeaProjects/spring-mongo-docker/src/main/java/com/spring/springmongodocker/dao/StudentRepository.java
+/home/beyondm/IdeaProjects/spring-mongo-docker/src/main/java/com/spring/springmongodocker/SpringMongoDockerApplication.java
+/home/beyondm/IdeaProjects/spring-mongo-docker/src/main/java/com/spring/springmongodocker/model/Student.java
+/home/beyondm/IdeaProjects/spring-mongo-docker/src/main/java/com/spring/springmongodocker/controller/StudentController.java
